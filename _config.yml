@@ -1,5 +1,5 @@
 # ----------- CONFIGURABLE START -----------
-title:            "GitHub"
+title:            "Yinny"
 description:      "I was enchanted to meet you."
 url:              https://yinnytang.github.io # Site url, without a slash at the end.
 signoff:          "Yinny" # Your name
@@ -8,7 +8,7 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Notes
     url:          /
     external:     false
   - name:         About me
